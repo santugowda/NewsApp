@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="search">Search</string>
+    <string name="share_text">Share</string>
+    <string name="article_text">Latest News</string>
+    <string name="title_activity_article">Detailed News</string>
+    <string name="search_hint">Search Article</string>
+    <string name="search_title">NY Times</string>
+    <string name="offline_title">No Internet Connection</string>
+    <string name="service_error">Error on us</string>
+</resources>
